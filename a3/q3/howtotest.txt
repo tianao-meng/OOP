@@ -1,0 +1,25 @@
+n - New intSet, this will create a new intSet start reading in integers from stdin and adding them to the intSet until you enter a non-integer character. Additionally every intSet you create with n or d gets an index associated with it starting with 0 and going up, you will use these indices to reference them in other commands.
+ 
+d <ind> - Copy constructs a new set using the set at <ind> as the set to copy.
+ 
+p <ind> - Prints the intSet associated with index <ind>. Note: just enter the number for the index not the < and > signs.
+ 
+& <ind1> <ind2> - Runs the set intersection operator on the sets at <ind1> and <ind2> and prints the result.
+ 
+| <ind1> <ind2> - Runs the set union operator on the sets at <ind1> and <ind2> and prints the result.
+ 
+= <ind1> <ind2> - Runs the set equality operator on the sets at <ind1> and <ind2> and prints the result (0 or 1).
+ 
+s <ind1> <ind2> - Runs <ind1>.isSubset(<ind2>) and prints the result (0 or 1).
+ 
+c <ind> <elem> - Runs <ind>.contains(<elem>) and prints the result (0 or 1).
+
+a <ind> <elem> - Runs <ind>.add(<elem>), use to add individual integers to the sets.
+ 
+r <ind> <elem> - Runs <ind>.remove(<elem>), use to remove individual integers from the sets.
+ 
+< <ind1> <ind2> - Assigns the set at <ind1> to <ind2> - uses the copy assignment operator.
+ 
+m <ind1> - Reads in integers until hitting a non-integer character and creates a temp set and assigns <ind1> to that temp set, uses the move assignment operator.
+ 
+q - exit the program

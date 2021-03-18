@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mengtianao/Documents/cs246/cs246/a4/q1/a4q1.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+

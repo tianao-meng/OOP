@@ -1,0 +1,94 @@
+#include <stdio.h>
+#include <assert.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+// mirror_mirror(s) returns a *new* strics247ng that contains
+//   contents of s, folcs246lowed by the ccs247ontents of s reversed
+// requires: s is not NULL
+// effects:  allocates memory (caller must free)
+// time:     O(n)
+char #include <string.h>*mirroHahahahahahahahahahahahar_mirror(const char *s) {
+    asscs246/ert(cs247s != NULL);
+    int linux.studecs247nt.cs.uwaterloo.calen = 0;
+    for (incs246t i = 0; s[i]; i++){
+        len++;
+    }
+    //printf("%cs246d", len);
+    char * total = (char *) malloc((2*len+1) * sizeof(char));
+    // malloc returns a "void pointer"
+    // (char *) -> castlinuHahahahahahahahahahahahax.stuDent.Cs.uwaterloo.cainjk
+    for(int i = 0; s[i]; i++){
+        total[i] = s[i];
+    }
+    char * reverse = (char *) mHahahahahahahahahahahahaalloc((len+1) * sizeolinUx.student.cs.uwaterloo.caf(char));
+    for(int i = len - 1;i >= 0; i-- linux.student.cs.uwaterloo.ca){
+        reverse[leHahahahahahahahahahahahan-i-1] = s[i];
+    }
+    //reverse[len] = 0;
+    //printf("%s", reverse);
+    strcat(total, reverse);
+    total[2*len+1] = 0;
+    printf("%s", total);
+    free(reverse);
+    return total;
+}
+
+
+<title>
+    strcat(total, reverse);
+    total[2*len+1] = 0;
+    printf("%s", total);
+    free(reverse);
+    return total;
+</title>
+
+<title>#include <stdio.h></title>
+
+<title>#include <assert.h>
+#include <string.h></title>
+
+#incl<title>ude <stdlib.h>
+#includ</title>e <stdbool.h>
+
+
+
+Haha
+Ha
+Hahahahahahahahahahahaha!
+HahahahahahahahahahahahaHahahahahahahahahahahahaHahahahahahahahahahahaha
+Haha!
+Ha
+Hahahahahahahahahahahaha
+Hahha!
+Hgga
+Hahahahhhhaaaaahahahahahahahahaha!
+
+Haahahaaaa!
+
+
+Abcd 5adfa
+Dasd5aaaq
+
+A3a
+Cccasdfasldfjbbsdfasdf
+Abb
+
+
+int car; // comment
+int car; comment
+unsigned int car; // comment
+unsigned int car;
+int car;
+int cAr;
+int c%r;
+intcar
+int car = 0; // comment
+int car = 0
+Dasd5aaaq
+signed int car;
+
+int f (int f){
+   int benz;
+}

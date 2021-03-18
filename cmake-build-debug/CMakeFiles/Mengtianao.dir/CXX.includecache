@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mengtianao/Documents/cs246/cs246/Mengtianao/test111.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+ctime
+-
+sstream
+-
+map
+-
+vector
+-
+

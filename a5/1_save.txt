@@ -1,0 +1,32 @@
+3
+Goose G 0 94 37
+Professor P 0 168 26
+Student S 0 322 7
+AL Student 4
+ML Student 4
+MKV Bank 0
+ECH Student 4
+PAS Student 4
+HH Student 4
+RCH Professor -1
+PAC Student 0
+DWE Goose -1
+CPH Goose -1
+UWP Professor -1
+LHI Professor -1
+BMH Professor -1
+OPT Professor -1
+EV1 Goose -1
+EV2 Goose -1
+EV3 Goose -1
+V1 Professor -1
+PHYS Professor -1
+B1 Professor -1
+CIF Student 0
+B2 Professor -1
+EIT Student 4
+ESC Student 4
+C2 Student 3
+REV Goose -1
+MC Goose -1
+DC Goose -1

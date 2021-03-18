@@ -1,0 +1,27 @@
+a: b
+a: c
+a: d
+a: e
+a: f
+a: f
+a: g
+a: h
+f: i
+i: j
+j: k
+k: l
+touch b
+touch c
+touch b
+touch d
+touch e
+touch f
+touch g
+touch h
+touch l
+touch l
+touch c
+touch l
+make a
+make f
+q 

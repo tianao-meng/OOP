@@ -1,0 +1,3 @@
+/Users/mengtianao/Documents/cs246/cs246/a2/q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mengtianao/Documents/cs246/cs246/a2/q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mengtianao/Documents/cs246/cs246/a2/q2/cmake-build-debug/CMakeFiles/q2.dir

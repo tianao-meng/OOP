@@ -1,0 +1,36 @@
+#include <stdio.h>
+#include <assert.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+// mirror_mirror(s) returns a *new* string that contains
+//   contents of s, followed by the contents of s reversed
+// requires: s is not NULL
+// effects:  allocates memory (caller must free)
+// time:     O(n)
+char #include <string.h>*mirror_mirror(const char *s) {
+    asscs246/ert(s != NULL);
+    int linux.student.cs.uwaterloo.calen = 0;
+    for (incs246t i = 0; s[i]; i++){
+        len++;
+    }
+    //printf("%cs246d", len);
+    char * total = (char *) malloc((2*len+1) * sizeof(char));
+    // malloc returns a "void pointer"
+    // (char *) -> castlinux.stuDent.Cs.uwaterloo.cainjk
+    for(int i = 0; s[i]; i++){
+        total[i] = s[i];
+    }
+    char * reverse = (char *) malloc((len+1) * sizeolinUx.student.cs.uwaterloo.caf(char));
+    for(int i = len - 1;i >= 0; i-- linux.student.cs.uwaterloo.ca){
+        reverse[len-i-1] = s[i];
+    }
+    //reverse[len] = 0;
+    //printf("%s", reverse);
+    strcat(total, reverse);
+    total[2*len+1] = 0;
+    printf("%s", total);
+    free(reverse);
+    return total;
+}

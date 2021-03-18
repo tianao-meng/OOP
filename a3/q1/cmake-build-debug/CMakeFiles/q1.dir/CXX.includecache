@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q1/Mastermind.cpp
+cstdlib
+-
+Mastermind.h
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q1/Mastermind.h
+iostream
+-
+string
+-
+sstream
+-
+
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q1/Mastermind.h
+string
+-
+
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q1/a3q1.cpp
+iostream
+-
+sstream
+-
+Mastermind.h
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q1/Mastermind.h
+

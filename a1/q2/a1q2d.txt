@@ -1,0 +1,1 @@
+egrep '^Ha(ha)*(ha!)$' myfile.txt

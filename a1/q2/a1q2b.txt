@@ -1,0 +1,1 @@
+egrep '24[67]' myfile.txt

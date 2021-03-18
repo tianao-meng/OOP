@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q4/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+tree.h
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q4/tree.h
+
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q4/tree.cpp
+iostream
+-
+string
+-
+tree.h
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q4/tree.h
+
+/Users/mengtianao/Documents/cs246/cs246/a3_new/q4/tree.h
+vector
+-
+
